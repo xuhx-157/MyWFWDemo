@@ -1,0 +1,9 @@
+url=jdbc:mysql://192.168.113.100:3306/hotel?serverTimezone=Asia/Shanghai
+user=root
+pass=cqrjxk39
+driver=com.mysql.cj.jdbc.dirver
+
+showSql=true
+formatSql=false
+showParams=true
+sqlLevel=error
