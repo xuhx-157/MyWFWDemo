@@ -13,10 +13,8 @@ import org.elasticsearch.search.aggregations.metrics.Stats;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
 import java.io.IOException;
 import java.util.List;
-import java.util.Map;
 
 public class Demo05 {
 
